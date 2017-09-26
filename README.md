@@ -20,4 +20,4 @@ iPhone
 
 ## License
 
-Copyright 2017 Konstantin Khokhlov.
+Copyright 2017
